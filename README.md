@@ -1,5 +1,5 @@
 # About
-This a repository for Hand Tracking using python by Tarun Suresh and that me!!!!!!!
+This a repository for Hand Tracking.
 
 # Libraries 
 The Libraries are used in this project 
